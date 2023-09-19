@@ -20,7 +20,7 @@ mensagens = [
 ]
 
 # Lista de números de telefone para enviar mensagens
-telefones = ['556193793115', '556192195630', '556194170979', '5561855557027']
+telefones = [''] # Inserir os numeros que vão receber as mensagens 
 
 # Função para enviar mensagem
 def enviar_mensagem(numero, mensagem):
